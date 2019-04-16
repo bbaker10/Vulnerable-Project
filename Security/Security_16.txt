@@ -1,0 +1,4 @@
+https://www.schneier.com/blog/archives/2010/09/vulnerabilities_1.html
+Vulnerabilities in US-CERT Network.
+
+You'd think US-CERT would do somewhat better.

@@ -1,0 +1,10 @@
+https://www.schneier.com/blog/archives/2007/10/hacker_firefox.html
+Hacker Firefox Extensions.
+
+Have fun:
+If I could only install one "offensive" extension, it would absolutely be Tamper Data. In the past, I used Paros Proxy and Burp Suite for intercepting requests and responses between my Web browser and the Web server. These tasks can now be done within Firefox via Tamper Data -- without configuring the proxy settings.
+
+If the Website you're trying to break into requires a unique cookie, referrer, or user-agent, intercept the request with Tamper Data before it gets sent to the Web server. Then, add or modify the attributes you need and send it on. It's even possible to modify the response from the Web server before the Web browser interprets it. It's a very nice tool for anyone interested in Web application security.
+Paros and Burp both have features not yet available in Tamper Data, such as site spidering and vulnerability scanning. Switching over to one of them as a proxy is much easier with SwitchProxy, which helps you quickly configure Firefox to use Paros and Proxy. It's not a purely "offensive" extension, but SwitchProxy it makes the configuration of proxies for Firefox much quicker.
+If the Website you're trying to break into requires a unique cookie, referrer, or user-agent, intercept the request with Tamper Data before it gets sent to the Web server. Then, add or modify the attributes you need and send it on. It's even possible to modify the response from the Web server before the Web browser interprets it. It's a very nice tool for anyone interested in Web application security.
+Paros and Burp both have features not yet available in Tamper Data, such as site spidering and vulnerability scanning. Switching over to one of them as a proxy is much easier with SwitchProxy, which helps you quickly configure Firefox to use Paros and Proxy. It's not a purely "offensive" extension, but SwitchProxy it makes the configuration of proxies for Firefox much quicker.

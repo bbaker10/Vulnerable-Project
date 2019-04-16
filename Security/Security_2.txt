@@ -1,0 +1,9 @@
+https://www.schneier.com/blog/archives/2019/01/prices_for_zero.html
+Prices for Zero-Day Exploits Are Rising.
+
+Companies are willing to pay ever-increasing amounts for good zero-day exploits against hard-to-break computers and applications:
+On Monday, market-leading exploit broker Zerodium said it would pay up to $2 million for zero-click jailbreaks of Apple's iOS, $1.5 million for one-click iOS jailbreaks, and $1 million for exploits that take over secure messaging apps WhatsApp and iMessage. Previously, Zerodium was offering $1.5 million, $1 million, and $500,000 for the same types of exploits respectively. The steeper prices indicate not only that the demand for these exploits continues to grow, but also that reliably compromising these targets is becoming increasingly hard.
+Note that these prices are for offensive uses of the exploit. Zerodium -- and others -- sell exploits to companies who make surveillance tools and cyber-weapons for governments. Many companies have bug bounty programs for those who want the exploit used for defensive purposes -- i.e., fixed -- but they pay orders of magnitude less. This is a problem.
+Back in 2014, Dan Geer said that that the US should corner the market on software vulnerabilities:
+"There is no doubt that the U.S. Government could openly corner the world vulnerability market," said Geer, "that is, we buy them all and we make them all public. Simply announce 'Show us a competing bid, and we'll give you [10 times more].' Sure, there are some who will say 'I hate Americans; I sell only to Ukrainians,' but because vulnerability finding is increasingly automation-assisted, the seller who won't sell to the Americans knows that his vulns can be rediscovered in due course by someone who will sell to the Americans who will tell everybody, thus his need to sell his product before it outdates is irresistible."
+I don't know about the 10x, but in theory he's right. There's no other way to solve this.

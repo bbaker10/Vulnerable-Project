@@ -1,0 +1,6 @@
+https://www.schneier.com/blog/archives/2008/03/google_vulnerab.html
+Google Vulnerability Scanner.
+
+We've all known for years that you can use Google to scan for vulnerabilities.  Well, now the process has been automated.
+Presenting: Goolag Scanner from the Cult of the Dead Cow.
+I've seen a lot of pre-release scanning results from these guys, and it's pretty amazing what they've found.

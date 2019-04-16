@@ -1,0 +1,8 @@
+https://www.schneier.com/blog/archives/2005/02/unicode_url_hac_1.html
+Unicode URL Hack.
+
+A long time ago I wrote about the security risks of Unicode.  This is an example of the problem.
+Here's a demo: it's a Web page that appears to be www.paypal.com but is not PayPal. Everything from the address bar to the hover-over status on the link says www.paypal.com.
+It works by substituting a Unicode character for the second "a" in PayPal. That Unicode character happens to look like an English "a," but it's not an "a."  The attack works even under SSL.
+Here's the source code of the link:  http://www.p&#1072;ypal.com/
+Secuna has some information on how to fix this vulnerability.  So does BoingBoing.

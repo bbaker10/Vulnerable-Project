@@ -1,0 +1,14 @@
+https://www.schneier.com/blog/archives/2015/08/using_samsungs_.html
+Using Samsung's Internet-Enabled Refrigerator for Man-in-the-Middle Attacks.
+
+This is interesting research:
+Whilst the fridge implements SSL, it FAILS to validate SSL certificates, thereby enabling man-in-the-middle attacks against most connections. This includes those made to Google's servers to download Gmail calendar information for the on-screen display.
+
+So, MITM the victim's fridge from next door, or on the road outside and you can potentially steal their Google credentials.
+The notable exception to the rule above is when the terminal connects to the update server -- we were able to isolate the URL https://www.samsungotn.net which is the same used by TVs, etc. We generated a set of certificates with the exact same contents as those on the real website (fake server cert + fake CA signing cert) in the hope that the validation was weak but it failed.
+The terminal must have a copy of the CA and is making sure that the server's cert is signed against that one. We can't hack this without access to the file system where we could replace the CA it is validating against. Long story short we couldn't intercept communications between the fridge terminal and the update server.
+So, MITM the victim's fridge from next door, or on the road outside and you can potentially steal their Google credentials.
+The notable exception to the rule above is when the terminal connects to the update server -- we were able to isolate the URL https://www.samsungotn.net which is the same used by TVs, etc. We generated a set of certificates with the exact same contents as those on the real website (fake server cert + fake CA signing cert) in the hope that the validation was weak but it failed.
+The terminal must have a copy of the CA and is making sure that the server's cert is signed against that one. We can't hack this without access to the file system where we could replace the CA it is validating against. Long story short we couldn't intercept communications between the fridge terminal and the update server.
+When I think about the security implications of the Internet of things, this is one of my primary worries. As we connect things to each other, vulnerabilities on one of them affect the security of another. And because so many of the things we connect to the Internet will be poorly designed, and low cost, there will be lots of vulnerabilities in them. Expect a lot more of this kind of thing as we move forward.
+EDITED TO ADD (9/11): Dave Barry reblogged me.

@@ -1,0 +1,6 @@
+https://www.schneier.com/blog/archives/2006/05/priority_cell_p.html
+Priority Cell Phones for First Responders.
+
+Verizon has announced that is has activated the Access Overload Control (ACCOLC) system, allowing some cell phones to have priority access to the network, even when the network is overloaded.
+If you are a first responder with a Verizon phone, please visit the government's WPS Requestor to provide the necessary information to have your handset activated.
+Sounds like you're going to have to enter some sort of code into your handset.  I wonder how long before someone hacks that system.

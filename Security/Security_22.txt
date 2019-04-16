@@ -1,0 +1,5 @@
+https://www.schneier.com/blog/archives/2007/02/uac_security_ho.html
+UAC Security Hole in Vista.
+
+This is a good summary of the problem.  If you want more details, look here.
+What's interesting is that Microsoft is positioning this as a trade-off between security and ease-of-use.  That's correct, of course, but it seems that someone made a bad decision in this regard.

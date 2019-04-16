@@ -1,0 +1,21 @@
+https://www.schneier.com/blog/archives/2005/11/possible_net_ob.html
+Possible Net Objects Fusion 9 Vulnerability.
+
+I regularly get anonymous e-mail from people exposing software vulnerabilities.  This one looks interesting.
+Beta testers have discovered a serious security flaw that exposes a site created using Net Objects Fusion 9 (NOF9) that has the potential to expose an entire site to hacking, including passwords and log in info for that site.  The vulnerability exists for any website published using versioning (that is, all sites using nPower).
+
+The vulnerability is easy to exploit.  In your browser enter:
+http://domain.com/_versioning_repository_/rollbacklog.xml
+Now enter:
+http://domain.com/_versioning_repository_/n.zip, where n is the number you got from rollback.xml.
+Then, open Fusion and create a new site from the d/l'ed template. Edit and  republish.
+This means that anyone can edit a NOF9 site and get any usernames and passwords involved in it.  Every site using versioning in NOF9 is exposing their site.
+Website Pros has refused to fix the hole.  The only concession that they have made is to put a warning in the publishing dialog box telling the user to "Please make sure your profiles repository are [sic] stored in a secure area of your remote server."
+The vulnerability is easy to exploit.  In your browser enter:
+http://domain.com/_versioning_repository_/rollbacklog.xml
+Now enter:
+http://domain.com/_versioning_repository_/n.zip, where n is the number you got from rollback.xml.
+Then, open Fusion and create a new site from the d/l'ed template. Edit and  republish.
+This means that anyone can edit a NOF9 site and get any usernames and passwords involved in it.  Every site using versioning in NOF9 is exposing their site.
+Website Pros has refused to fix the hole.  The only concession that they have made is to put a warning in the publishing dialog box telling the user to "Please make sure your profiles repository are [sic] stored in a secure area of your remote server."
+I don't use NOF9, and I haven't tested this vulnerability.  Can someone do so and get back to me?  And if it is a real problem, spread the word.  I don't know yet if Website Pros prefers to pay lawyers to suppress information rather than pay developers to fix software vulnerabilities.  

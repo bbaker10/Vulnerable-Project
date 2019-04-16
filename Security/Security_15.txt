@@ -1,0 +1,9 @@
+https://www.schneier.com/blog/archives/2013/06/the_us_uses_vul.html
+The US Uses Vulnerability Data for Offensive Purposes.
+
+Companies allow US intelligence to exploit vulnerabilities before it patches them:
+Microsoft Corp. (MSFT), the world's largest software company, provides intelligence agencies with information about bugs in its popular software before it publicly releases a fix, according to two people familiar with the process. That information can be used to protect government computers and to access the computers of terrorists or military foes.
+
+Redmond, Washington-based Microsoft (MSFT) and other software or Internet security companies have been aware that this type of early alert allowed the U.S. to exploit vulnerabilities in software sold to foreign governments, according to two U.S. officials. Microsoft doesn't ask and can't be told how the government uses such tip-offs, said the officials, who asked not to be identified because the matter is confidential.
+Redmond, Washington-based Microsoft (MSFT) and other software or Internet security companies have been aware that this type of early alert allowed the U.S. to exploit vulnerabilities in software sold to foreign governments, according to two U.S. officials. Microsoft doesn't ask and can't be told how the government uses such tip-offs, said the officials, who asked not to be identified because the matter is confidential.
+No word on whether these companies would delay a patch if asked nicely -- or if there's any way the government can require them to.  Anyone feel safer because of this?

@@ -1,0 +1,8 @@
+https://www.schneier.com/blog/archives/2005/08/bluetooth_spam.html
+Bluetooth Spam.
+
+Advertisers are beaming unwanted content to Bluetooth phones at a distance of 100 meters.
+Sure, it's annoying, but worse, there are serious security risks.  Don't believe this:
+Furthermore, there is no risk of downloading viruses or other malware to the phone, says O'Regan: "We don't send applications or executable code." The system uses the phone's native download interface so they should be able to see the kind of file they are downloading before accepting it, he adds.
+This company might not send executable code, but someone else certainly could.  And what percentage of people who use Bluetooth phones can recognize "the kind of file they are downloading"?
+We've already seen two ways to steal data from Bluetooth devices.  And we know that more and more sensitive data is being stored on these small devices, increasing the risk. This is almost certainly another avenue for attack.

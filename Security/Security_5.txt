@@ -1,0 +1,7 @@
+https://www.schneier.com/blog/archives/2018/02/poor_security_a.html
+Poor Security at the UK National Health Service.
+
+The Guardian is reporting that "every NHS trust assessed for cyber security vulnerabilities has failed to meet the standard required."
+This is the same NHS that was debilitated by WannaCry.
+EDITED TO ADD (2/13): More news.
+And don't think that US hospitals are much better.

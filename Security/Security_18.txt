@@ -1,0 +1,10 @@
+https://www.schneier.com/blog/archives/2008/07/locksmiths_hate.html
+Locksmiths Hate Computer Geeks who Learn Lockpicking.
+
+They do:
+Hobby groups throughout North America have cracked supposedly unbeatable locks. Mr. Nekrep, who maintains a personal collection of more than 300 locks, has demonstrated online how to open a Kensington laptop lock using Scotch tape and a Post-it note. Another Lockpicking101.com member discovered the well-publicized method of opening Kryptonite bike locks with a ball-point pen, a revelation that prompted Kryptonite to replace all of its compromised locks. 
+
+Other lock manufacturers haven't admitted their flaws so readily. Marc Tobias, a lawyer and security expert, recently shook up the lock-picking community by publishing a detailed analysis of how to crack the uncrackable: Medeco locks.
+"We've figured out how to break them in as little as 30 seconds," he said. "[Medeco] won't admit it, though. They still believe in security through obscurity. But by not fixing the problems we identify, lock-makers are putting the public at risk. They have a duty to disclose vulnerabilities. If they don't, we will."
+Other lock manufacturers haven't admitted their flaws so readily. Marc Tobias, a lawyer and security expert, recently shook up the lock-picking community by publishing a detailed analysis of how to crack the uncrackable: Medeco locks.
+"We've figured out how to break them in as little as 30 seconds," he said. "[Medeco] won't admit it, though. They still believe in security through obscurity. But by not fixing the problems we identify, lock-makers are putting the public at risk. They have a duty to disclose vulnerabilities. If they don't, we will."

@@ -1,0 +1,4 @@
+https://www.schneier.com/blog/archives/2015/05/story_of_the_zo.html
+Story of the ZooKeeper Poison-Packet Bug.
+
+Interesting story of a complex and deeply hidden bug -- with AES as a part of it.

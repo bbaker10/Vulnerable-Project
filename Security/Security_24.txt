@@ -1,0 +1,24 @@
+https://www.schneier.com/blog/archives/2006/08/faux_disclosure.html
+Faux Disclosure.
+
+Good essay on "faux disclosure": disclosing a vulnerability without really disclosing it.
+You've probably heard of full disclosure, the security philosophy that calls for making public all details of vulnerabilities. It has been the subject of debates among 
+researchers, vendors, and security firms. But the story that grabbed most of the headlines at the Black Hat Briefings in Las Vegas last week was based on a different type of disclosure. For lack of a better name, I'll call it faux disclosure. Here's why.
+
+Security researchers Dave Maynor of ISS and Johnny Cache -- a.k.a. Jon Ellch -- demonstrated an exploit that allowed them to install a rootkit on an Apple laptop in less than a minute. Well, sort of; they showed a video of it, and also noted that they'd used a third-party Wi-Fi card in the demo of the exploit, rather than the MacBook's internal Wi-Fi card. But they said that the exploit would work whether the third-party card -- which they declined to identify -- was inserted 
+in a Mac, Windows, or Linux laptop.
+[...]
+How is that for murky and non-transparent? The whole world is at risk -- if the exploit is real -- whenever the unidentified card is used. But they won't say which card, although many sources presume the card is based on the Atheros chipset, which Apple employs.
+It gets worse. Brian Krebs of the Washington Post, who first reported on the exploit, updated his original story and has reported that Maynor said, "Apple had leaned on Maynor and Ellch pretty hard not to make this an issue about the Mac drivers -- mainly because Apple had not fixed the problem yet."
+That's part of what is meant by full disclosure these days -- giving the vendor a chance fix the vulnerability before letting the whole world know about it. That way, the thinking goes, the only people who get hurt by it are the people who get exploited by it. But damage to the responsible vendor's image is mitigated somewhat, and many in the security business seem to think that damage control is more important than anything that might happen to any of the vendor's customers.
+Big deal. Publicly traded corporations like Apple and Microsoft and all the rest have been known to ignore ethics, morality, any consideration of right or wrong, or anything at all that might divert them from their ultimate goal: to maximize profits. Because of this, 
+some corporations only speak the truth when it is in their best interest. Otherwise, they lie or maintain silence.
+Security researchers Dave Maynor of ISS and Johnny Cache -- a.k.a. Jon Ellch -- demonstrated an exploit that allowed them to install a rootkit on an Apple laptop in less than a minute. Well, sort of; they showed a video of it, and also noted that they'd used a third-party Wi-Fi card in the demo of the exploit, rather than the MacBook's internal Wi-Fi card. But they said that the exploit would work whether the third-party card -- which they declined to identify -- was inserted 
+in a Mac, Windows, or Linux laptop.
+[...]
+How is that for murky and non-transparent? The whole world is at risk -- if the exploit is real -- whenever the unidentified card is used. But they won't say which card, although many sources presume the card is based on the Atheros chipset, which Apple employs.
+It gets worse. Brian Krebs of the Washington Post, who first reported on the exploit, updated his original story and has reported that Maynor said, "Apple had leaned on Maynor and Ellch pretty hard not to make this an issue about the Mac drivers -- mainly because Apple had not fixed the problem yet."
+That's part of what is meant by full disclosure these days -- giving the vendor a chance fix the vulnerability before letting the whole world know about it. That way, the thinking goes, the only people who get hurt by it are the people who get exploited by it. But damage to the responsible vendor's image is mitigated somewhat, and many in the security business seem to think that damage control is more important than anything that might happen to any of the vendor's customers.
+Big deal. Publicly traded corporations like Apple and Microsoft and all the rest have been known to ignore ethics, morality, any consideration of right or wrong, or anything at all that might divert them from their ultimate goal: to maximize profits. Because of this, 
+some corporations only speak the truth when it is in their best interest. Otherwise, they lie or maintain silence.
+Full disclosure is the only thing that forces vendors to fix security problems.  The further we move away from full disclosure, the less incentive vendors have to fix problems and the more at-risk we all are.

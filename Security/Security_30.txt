@@ -1,0 +1,10 @@
+https://www.schneier.com/blog/archives/2005/06/diebold_opti-sc.html
+Diebold Opti-Scan Voting Machine.
+
+An analysis of Diebold's Opti-Scan (paper ballot) voting machine.
+Computer expert Harri Hursti gained control over Leon County memory cards, which handle the vote-reporting from the precincts. Dr. Herbert Thompson, a security expert, took control of the Leon County central tabulator by implanting a trojan horse-like script.
+
+Two programmers can become a lone programmer, says Hursti, who has figured out a way to control the entire central tabulator by way of a single memory card swap, and also how to make tampered polling place tapes match tampered central tabulator results. This more complex approach is untested, but based on testing performed May 26, Hursti says he has absolutely no reason to believe it wouldn't work.
+Three memory card tests demonstrated successful manipulation of election results, and showed that 1990 and 2002 FEC-required safeguards are being violated in the Diebold version 1.94 opti-scan system.
+Two programmers can become a lone programmer, says Hursti, who has figured out a way to control the entire central tabulator by way of a single memory card swap, and also how to make tampered polling place tapes match tampered central tabulator results. This more complex approach is untested, but based on testing performed May 26, Hursti says he has absolutely no reason to believe it wouldn't work.
+Three memory card tests demonstrated successful manipulation of election results, and showed that 1990 and 2002 FEC-required safeguards are being violated in the Diebold version 1.94 opti-scan system.

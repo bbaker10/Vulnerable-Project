@@ -1,0 +1,4 @@
+https://www.schneier.com/blog/archives/2006/11/forge_your_own.html
+Forge Your Own Boarding Pass.
+
+Last week Christopher Soghoian created a Fake Boarding Pass Generator website, allowing anyone to create a fake Northwest Airlines boarding pass: any name, airport, date, flight.  This action

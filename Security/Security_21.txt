@@ -1,0 +1,5 @@
+https://www.schneier.com/blog/archives/2007/05/network_insecur.html
+Network Insecurities at the FBI.
+
+The FBI has lousy security against insider attacks, according to a GAO report.
+Insider attacks are hard to defend against.  One of the most important defenses is a good audit trail, so that when something happens you can figure out who did it.

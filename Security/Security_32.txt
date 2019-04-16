@@ -1,0 +1,8 @@
+https://www.schneier.com/blog/archives/2004/10/the_doghouse_le.html
+The Doghouse:  Lexar JumpDrives.
+
+If you read Lexar's documentation, their JumpDrive Secure product is secure.  "If lost or stolen, you can rest assured that what you've saved there remains there with 256-bit AES encryption."  Sounds good, but security professionals are an untrusting sort.  @Stake decided to check.  They found that "the password can be observed in memory or read directly from the device, without evidence of tampering."  Even worse: the password "is stored in an XOR encrypted form and can be read directly from the device without any authentication."
+The moral of the story: don't trust magic security words like "256-bit AES."  The devil is in the details, and it's easy to screw up security.
+Although screwing it up this badly is impressive.
+Lexar's product
+@Stake's analysis

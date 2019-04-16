@@ -1,0 +1,5 @@
+https://www.schneier.com/blog/archives/2016/03/drown_attack.html
+DROWN Attack.
+
+Earlier this week, we learned of yet another attack against SSL/TLS where an attacker can force people to use insecure algorithms. It's called DROWN. Here's a good news article on the attack, the technical paper describing the attack, and a very good technical blog post by Matthew Green.
+As an aside, I am getting pretty annoyed at all the marketing surrounding vulnerabilities these days. Vulnerabilities do not need a catchy name, a dedicated website -- even thought it's a very good website -- and a logo.

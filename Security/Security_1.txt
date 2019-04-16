@@ -1,0 +1,5 @@
+https://www.schneier.com/blog/archives/2019/03/nsa-inspired_vu.html
+NSA-Inspired Vulnerability Found in Huawei Laptops.
+
+This is an interesting story of a serious vulnerability in a Huawei driver that Microsoft found. The vulnerability is similar in style to the NSA's DOUBLEPULSAR that was leaked by the Shadow Brokers -- believed to be the Russian government -- and it's obvious that this attack copied that technique.
+What is less clear is whether the vulnerability -- which has been fixed -- was put into the Huwei driver accidentally or on purpose.

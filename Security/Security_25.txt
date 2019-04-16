@@ -1,0 +1,15 @@
+https://www.schneier.com/blog/archives/2006/07/wifi_driver_att.html
+WiFi Driver Attack.
+
+In this attack, you can seize control of someone's computer using his WiFi interface, even if he's not connected to a network.
+The two researchers used an open-source 802.11 hacking tool called LORCON (Loss of Radio Connectivity) to throw an extremely large number of wireless packets at different wireless cards. Hackers use this technique, called fuzzing, to see if they can cause programs to fail, or perhaps even run unauthorized software when they are bombarded with unexpected data.
+
+Using tools like LORCON, Maynor and Ellch were able to discover many examples of wireless device driver flaws, including one that allowed them to take over a laptop by exploiting a bug in an 802.11 wireless driver. They also examined other networking technologies including Bluetooth, Ev-Do (EVolution-Data Only), and HSDPA (High Speed Downlink Packet Access).
+The two researchers declined to disclose the specific details of their attack before the August 2 presentation, but they described it in dramatic terms.
+"This would be the digital equivalent of a drive-by shooting," said Maynor. An attacker could exploit this flaw by simply sitting in a public space and waiting for the right type of machine to come into range.
+The victim would not even need to connect to a network for the attack to work.
+Using tools like LORCON, Maynor and Ellch were able to discover many examples of wireless device driver flaws, including one that allowed them to take over a laptop by exploiting a bug in an 802.11 wireless driver. They also examined other networking technologies including Bluetooth, Ev-Do (EVolution-Data Only), and HSDPA (High Speed Downlink Packet Access).
+The two researchers declined to disclose the specific details of their attack before the August 2 presentation, but they described it in dramatic terms.
+"This would be the digital equivalent of a drive-by shooting," said Maynor. An attacker could exploit this flaw by simply sitting in a public space and waiting for the right type of machine to come into range.
+The victim would not even need to connect to a network for the attack to work.
+No details yet.  The researchers are presenting their results at BlackHat on August 2.

@@ -1,0 +1,8 @@
+https://www.schneier.com/blog/archives/2018/05/another_spectre.html
+Another Spectre-Like CPU Vulnerability.
+
+Google and Microsoft researchers have disclosed another Spectre-like CPU side-channel vulnerability, called "Speculative Store Bypass." Like the others, the fix will slow the CPU down.
+The German tech site Heise reports that more are coming.
+I'm not surprised. Writing about Spectre and Meltdown in January, I predicted that we'll be seeing a lot more of these sorts of vulnerabilities.
+Spectre and Meltdown are pretty catastrophic vulnerabilities, but they only affect the confidentiality of data. Now that they -- and the research into the Intel ME vulnerability -- have shown researchers where to look, more is coming -- and what they'll find will be worse than either Spectre or Meltdown.
+I still predict that we'll be seeing lots more of these in the coming months and years, as we learn more about this class of vulnerabilities.

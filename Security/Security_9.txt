@@ -1,0 +1,6 @@
+https://www.schneier.com/blog/archives/2016/08/security_vulner_7.html
+Security Vulnerabilities in Wireless Keyboards.
+
+Most of them are unencrypted, which makes them vulnerable to all sorts of attacks:
+On Tuesday Bastille's research team revealed a new set of wireless keyboard attacks they're calling Keysniffer. The technique, which they're planning to detail at the Defcon hacker conference in two weeks, allows any hacker with a $12 radio device to intercept the connection between any of eight wireless keyboards and a computer from 250 feet away. What's more, it gives the hacker the ability to both type keystrokes on the victim machine and silently record the target's typing.
+This is a continuation of their previous work

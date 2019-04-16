@@ -1,0 +1,4 @@
+https://www.schneier.com/blog/archives/2014/05/vulnerabilities_3.html
+Vulnerabilities Found in Law Enforcement Surveillance System.
+
+SEC Consult has published an advisory warning people not to use a government eavesdropping product called Recording eXpress, sold by the Israeli company Nice Systems.  Basically, attackers can completely compromise the system.  There are good stories on this by Brian Krebs and Dan Goodin.

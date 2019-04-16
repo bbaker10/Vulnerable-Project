@@ -1,0 +1,11 @@
+https://www.schneier.com/blog/archives/2006/01/vulnerability_d.html
+Vulnerability Disclosure Survey.
+
+If you have a moment, take this survey.
+This research project seeks to understand how secrecy and openness can be balanced in the analysis and alerting of security vulnerabilities to protect critical national infrastructures. To answer this question, this thesis will investigate:
+
+How vulnerabilities are analyzed, understood and managed throughout the vulnerability lifecycle process.
+The ways that the critical infrastructure security community interact to exchange security-related information and the outcome of such interactions to date.
+The nature of and influences upon collaboration and information-sharing within the critical infrastructure protection community, particularly those handling internet security concerns.
+The relationship between secrecy and openness in providing and exchanging security-related information.
+This looks interesting.
